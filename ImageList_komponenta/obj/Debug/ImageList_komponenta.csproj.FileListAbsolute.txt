@@ -1,0 +1,10 @@
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\bin\Debug\ImageList_komponenta.exe.config
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\bin\Debug\ImageList_komponenta.exe
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\bin\Debug\ImageList_komponenta.pdb
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.csproj.AssemblyReference.cache
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.Form1.resources
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.Properties.Resources.resources
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.csproj.GenerateResource.cache
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.csproj.CoreCompileInputs.cache
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.exe
+C:\Users\Mautner\source\repos\ImageList_komponenta\ImageList_komponenta\obj\Debug\ImageList_komponenta.pdb
